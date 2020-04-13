@@ -1,0 +1,11 @@
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/crypt/srp6/ServerEvidenceRoutineImpl.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/crypt/srp6/AppleSRP6ClientSessionImpl.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/AuthUtils.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/AirPlayAuth.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/crypt/Curve25519.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/crypt/srp6/HashedKeysRoutineImpl.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/PairSetupPin3Response.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/PairSetupPin2Response.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/AirPlayAuthExample.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/PairSetupPin1Response.java
+/home/jonas/plugins/AirPlayAuth/src/main/java/eu/airaudio/airplay/auth/crypt/srp6/ClientEvidenceRoutineImpl.java
